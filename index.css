@@ -1030,7 +1030,7 @@ textarea{
 }
 .education{
     flex-direction: column;
-    min-height: 300vh;
+    min-height: 1700px;
 }
 .ed1{
     top: -380px;
